@@ -17,3 +17,5 @@ isVisualize is for exploratory analysis. UsualSetting for running the code for k
 It is important to note that I have used libraries like sklearn and scipy just for the utility functions like finding pairwise distances. No where in the code I am using sklearn or scipy to find the WC SSD, SC or NMI score directly from the library using a single call. Also, I am not using these libraries for finding k means. 
 
 As mentioned in the homework handout, I use scipy for doing hierarchical clustering and for making the dendrogram.
+
+The book to follow when implementing these algorithms is "Principles of Data Mining" by David Hand et al.
